@@ -1,5 +1,6 @@
 {
   "name": "tesla-home",
+  "homepage": "https://nirajanweb.github.io/tesla-home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
