@@ -35,6 +35,7 @@
   margin-bottom: 5%;
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
 }
 
 .item__buttons {
